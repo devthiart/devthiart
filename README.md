@@ -4,7 +4,7 @@ My name is Thiago André and I am Brazilian. I'm Front End Developer, Indie Game
 [See more about me in my website!](https://www.devthiart.com)
 
 - 🔭 I’m currently working on [my website](https://www.devthiart.com)
-- 🌱 I’m currently learning JavaScript and Drawing.
+- 🌱 I’m currently learning JavaScript, Color Theory and Drawing.
 - 📫 How to reach me: devthiart@gmail.com
 
 ![devthiart's GitHub stats](https://github-readme-stats.vercel.app/api?username=devthiart&show_icons=true&title_color=2399F5&icon_color=2399F5&text_color=ffffff&bg_color=343434)
