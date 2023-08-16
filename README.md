@@ -7,9 +7,11 @@ My name is Thiago André and I am Brazilian. I'm Front End Developer, Indie Game
 - 🌱 I’m currently learning Next.js, Grids for Design and Drawing.
 - 📫 How to reach me: devthiart@gmail.com
 
+<!--
 ![devthiart's GitHub stats](https://github-readme-stats.vercel.app/api?username=devthiart&show_icons=true&title_color=2399F5&icon_color=2399F5&text_color=ffffff&bg_color=343434)
 
-<!--
+![devthiart's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=devthiart&show_icons=true&title_color=2399F5&icon_color=2399F5&text_color=ffffff&bg_color=343434)
+
 **devthiart/devthiart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
